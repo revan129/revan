@@ -41,8 +41,7 @@ def jembut():
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : Revan
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/revan129
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Facebook : https://www.facebook.com/1836274989
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]
-WhatsApp: 083108270912
+\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] WhatsApp: 083108270912
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 def yayanxd():
