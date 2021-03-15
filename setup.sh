@@ -70,5 +70,5 @@ echo
 echo
 echo "       [√] install commando done..."
 echo
-echo "     "python revan.py to continue"
+echo "     python revan.py to continue "
 echo
